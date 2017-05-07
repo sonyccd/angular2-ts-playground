@@ -14,7 +14,7 @@
 /bower_components
 
 # IDEs and editors
-/.idea
+.idea
 
 # misc
 /.sass-cache
@@ -154,5 +154,8 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
+
+src/**/*.js
+src/**/*.map
 
 # End of https://www.gitignore.io/api/node,angular,webstorm
